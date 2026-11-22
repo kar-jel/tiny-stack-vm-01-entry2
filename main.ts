@@ -1,2 +1,2 @@
-// This file boots the interpreter from its environment.
+//ok
 import(process.env.TSVM1)
